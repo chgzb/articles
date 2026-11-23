@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chgzb.github.io/articles/sitemap.xml
